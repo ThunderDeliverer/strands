@@ -25,3 +25,9 @@ Both flows of deposit and withdraw have been showcased:
 
 1. Deposit: Ether was sent to the smart contract in transaction [0x35d30188054fe88eef4767cb022e8e2198350e074855092aa59ad22b81aee57e](https://goerli.lineascan.build/tx/0x35d30188054fe88eef4767cb022e8e2198350e074855092aa59ad22b81aee57e).
 2. Withdrawal: Ether was withdrawn from the smart contract in transaction [0xdd6f321e0a2ea16109e987e7566462c492b06defded06d16de17772408e7cbed](https://goerli.lineascan.build/tx/0xdd6f321e0a2ea16109e987e7566462c492b06defded06d16de17772408e7cbed).
+
+## Documentation
+
+Documentation of the smart contracts can be found in the [`docs`](./docs/) directory.
+
+The documentation of the solution smart contract can be found in [`Strands.md`](./docs/Strands.md) file.
