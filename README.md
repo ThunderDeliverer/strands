@@ -8,7 +8,7 @@ It contains the required `function transferToken(address tokenAddress, address r
 
 The smart contract has been deployed to Linea testnet @ [0x7f444B035E55C2956653f69F0366A7045a9bE846](https://goerli.lineascan.build/address/0x7f444b035e55c2956653f69f0366a7045a9be846).
 
-In addition to this smart contract, a mock ERC-20 smart contract was deployed. It allows anyone to mint an arbitrary amount of tokens to any address to facilitate the *ERC-20* transfer branch of the assignment. The mock token smart contract was deployed to [0x4359F4e97D7428bAFDFA5793514326a555af4159](https://goerli.lineascan.build/address/0x4359f4e97d7428bafdfa5793514326a555af4159).
+In addition to this smart contract, a mock ERC-20 smart contract was deployed. It allows anyone to mint an arbitrary amount of tokens to any address to facilitate the _ERC-20_ transfer branch of the assignment. The mock token smart contract was deployed to [0x4359F4e97D7428bAFDFA5793514326a555af4159](https://goerli.lineascan.build/address/0x4359f4e97d7428bafdfa5793514326a555af4159).
 
 **NOTE: Both smart contracts have been verified and can be examined at their respective links.**
 

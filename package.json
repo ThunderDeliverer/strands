@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "hardhat test",
+    "prepare": "prettier --write . && hardhat dodoc"
+  },
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
     "hardhat": "^2.17.1"
@@ -13,6 +17,7 @@
     "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "@nomicfoundation/hardhat-verify": "^1.0.0",
+    "@primitivefi/hardhat-dodoc": "^0.2.3",
     "@typechain/ethers-v6": "^0.4.0",
     "@typechain/hardhat": "^8.0.0",
     "@types/chai": "^4.2.0",
